@@ -23,7 +23,7 @@ Here are some of the key features of the FWI Prediction System:
 
 🧰 Tech Stack Table
 
-| Category | Technology | | --- | --- | | Frontend | HTML, CSS, JavaScript | | Backend | Flask, Python, scikit-learn | | Database | Pandas, NumPy | | Tools | Pickle, StandardScaler |
+| Category | Technology | | --- | --- | | Frontend | HTML | | Backend | Flask, Python, scikit-learn | | Database | Pandas, NumPy | | Tools | Pickle, StandardScaler |
 📁 Project Structure
 
 The project is organized into the following folders:
@@ -51,14 +51,6 @@ To test the application, follow these steps:
     Integration testing: Run integration tests using python -m pytest.
     User testing: Test the application manually by inputting data and verifying prediction results.
 
-📸 Screenshots
-
-Here are some screenshots of the application:
-
-    Homepage: [placeholder image]
-    Login page: [placeholder image]
-    Prediction results: [placeholder image]
-
 📦 API Reference
 
 The application includes a RESTful API that provides access to prediction data and other relevant information. The API is documented using Swagger and includes the following endpoints:
@@ -68,7 +60,4 @@ The application includes a RESTful API that provides access to prediction data a
 
 👤 Author
 
-The FWI Prediction System was developed by [Your Name].
-📝 License
-
-The FWI Prediction System is licensed under the MIT License.
+The FWI Prediction System was developed by Rishi Sharma.
